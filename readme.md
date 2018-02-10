@@ -37,7 +37,7 @@ Each Campground has:
 * Show db.collection.drop()
 * Add a show route/template
 
-RESTFUL ROUTES
+## RESTFUL ROUTES
 name            url             verb        desc.
 ==============================================
 INDEX           /dogs           GET         Display a list of all dogs
